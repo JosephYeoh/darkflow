@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_set</folder>
+	<filename>chanel20.jpg</filename>
+	<path>/home/zi/thesisB/darkflow/train_set/chanel20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>483</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chanel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>165</ymin>
+			<xmax>313</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>
