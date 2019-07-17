@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hh</folder>
+	<filename>HH64.jpg</filename>
+	<path>/home/zi/Desktop/jpg/hh/HH64.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>638</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helly Hansen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>315</ymin>
+			<xmax>340</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>

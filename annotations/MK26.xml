@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mk</folder>
+	<filename>MK26.jpg</filename>
+	<path>/home/zi/Desktop/jpg/mk/MK26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Michael Kors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>52</ymin>
+			<xmax>92</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

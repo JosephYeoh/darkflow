@@ -1,0 +1,26 @@
+<annotation>
+	<folder>prada</folder>
+	<filename>prada69.jpg</filename>
+	<path>/home/zi/Desktop/jpg/prada/prada69.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>894</width>
+		<height>632</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Prada</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>510</xmin>
+			<ymin>128</ymin>
+			<xmax>738</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>

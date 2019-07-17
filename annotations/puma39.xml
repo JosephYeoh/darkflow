@@ -1,0 +1,26 @@
+<annotation>
+	<folder>puma</folder>
+	<filename>puma39.jpg</filename>
+	<path>/home/zi/Desktop/jpg/puma/puma39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>455</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Puma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>342</ymin>
+			<xmax>164</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

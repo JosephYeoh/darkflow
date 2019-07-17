@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lacoste</folder>
+	<filename>lacoste62.jpg</filename>
+	<path>/home/zi/Desktop/jpg/lacoste/lacoste62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>871</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lacoste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>397</ymin>
+			<xmax>683</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

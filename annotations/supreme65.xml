@@ -1,0 +1,26 @@
+<annotation>
+	<folder>supreme</folder>
+	<filename>supreme65.jpg</filename>
+	<path>/home/zi/Desktop/jpg/supreme/supreme65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>777</width>
+		<height>552</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Supreme</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>156</ymin>
+			<xmax>431</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>
