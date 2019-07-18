@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_set</folder>
+	<filename>supreme12.jpg</filename>
+	<path>/home/zi/thesisB/darkflow/train_set/supreme12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>359</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Supreme</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>88</ymin>
+			<xmax>274</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+</annotation>

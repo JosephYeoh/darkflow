@@ -1,0 +1,26 @@
+<annotation>
+	<folder>gucci</folder>
+	<filename>Gucci65.jpg</filename>
+	<path>/home/zi/Desktop/jpg/gucci/Gucci65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>591</width>
+		<height>399</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gucci</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>19</ymin>
+			<xmax>482</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>

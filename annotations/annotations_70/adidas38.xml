@@ -1,0 +1,26 @@
+<annotation>
+	<folder>adidas0</folder>
+	<filename>adidas38.jpg</filename>
+	<path>/home/zi/Desktop/jpg/adidas0/adidas38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>425</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>251</ymin>
+			<xmax>527</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

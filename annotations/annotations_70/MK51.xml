@@ -1,0 +1,38 @@
+<annotation>
+	<folder>mk</folder>
+	<filename>MK51.jpg</filename>
+	<path>/home/zi/Desktop/jpg/mk/MK51.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Michael Kors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>319</ymin>
+			<xmax>135</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Michael Kors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>354</ymin>
+			<xmax>359</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

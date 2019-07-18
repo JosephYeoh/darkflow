@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_set</folder>
+	<filename>prada14.jpg</filename>
+	<path>/home/zi/thesisB/darkflow/train_set/prada14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>384</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Prada</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>61</ymin>
+			<xmax>264</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_set</folder>
+	<filename>HH13.jpg</filename>
+	<path>/home/zi/thesisB/darkflow/train_set/HH13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helly Hansen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>133</ymin>
+			<xmax>434</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
