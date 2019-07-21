@@ -1,4 +1,0 @@
-Python3 flow --model cfg/yolov2-tiny-voc-joseph.cfg --load 2500 --train --dataset train_set/ -- annotation train_set/ --labels labels.txt --gpu 0.55 --batch 4 --epoch 50000 --keep 1000
-
-Python3 flow --model cfg/yolov2-tiny-voc-joseph.cfg --load 6000 --imgdir train_set/ --threshold 0.3 --labels labels.txt
-
