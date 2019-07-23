@@ -1,0 +1,1 @@
+[{"label": "Helly Hansen", "confidence": 0.11, "topleft": {"x": 260, "y": 115}, "bottomright": {"x": 475, "y": 215}}, {"label": "Puma", "confidence": 0.82, "topleft": {"x": 251, "y": 89}, "bottomright": {"x": 472, "y": 231}}, {"label": "Puma", "confidence": 0.48, "topleft": {"x": 302, "y": 124}, "bottomright": {"x": 427, "y": 199}}]
