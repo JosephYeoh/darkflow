@@ -1,0 +1,26 @@
+<annotation>
+	<folder>large_stuff</folder>
+	<filename>largePrada2.png</filename>
+	<path>/home/zi/thesisB/darkflow/large_stuff/largePrada2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1826</width>
+		<height>937</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Prada</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>863</xmin>
+			<ymin>448</ymin>
+			<xmax>955</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>
