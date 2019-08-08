@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_60</folder>
+	<filename>Google11.png</filename>
+	<path>/home/zi/thesisB/Thesis-PhishingDetector/data/train_60/Google11.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Google</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>485</xmin>
+			<ymin>23</ymin>
+			<xmax>593</xmax>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+</annotation>

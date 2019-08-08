@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_60</folder>
+	<filename>runescape1-SF.png</filename>
+	<path>/home/zi/thesisB/Thesis-PhishingDetector/data/train_60/runescape1-SF.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Runescape</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>291</ymin>
+			<xmax>718</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

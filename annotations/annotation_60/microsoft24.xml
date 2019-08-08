@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_60</folder>
+	<filename>microsoft24.png</filename>
+	<path>/home/zi/thesisB/Thesis-PhishingDetector/data/train_60/microsoft24.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Microsoft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>44</ymin>
+			<xmax>85</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>

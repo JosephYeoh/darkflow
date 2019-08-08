@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_60</folder>
+	<filename>PayPal4.png</filename>
+	<path>/home/zi/thesisB/Thesis-PhishingDetector/data/train_60/PayPal4.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Paypal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>15</ymin>
+			<xmax>251</xmax>
+			<ymax>49</ymax>
+		</bndbox>
+	</object>
+</annotation>

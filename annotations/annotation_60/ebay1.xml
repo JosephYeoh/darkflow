@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_60</folder>
+	<filename>ebay1.png</filename>
+	<path>/home/zi/thesisB/Thesis-PhishingDetector/data/train_60/ebay1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ebay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>27</ymin>
+			<xmax>140</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>

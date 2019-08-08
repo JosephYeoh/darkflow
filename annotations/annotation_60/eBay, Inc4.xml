@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train_60</folder>
+	<filename>eBay, Inc4.png</filename>
+	<path>/home/zi/thesisB/Thesis-PhishingDetector/data/train_60/eBay, Inc4.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ebay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>20</ymin>
+			<xmax>84</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Google</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>620</xmin>
+			<ymin>295</ymin>
+			<xmax>646</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Facebook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>622</xmin>
+			<ymin>241</ymin>
+			<xmax>652</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

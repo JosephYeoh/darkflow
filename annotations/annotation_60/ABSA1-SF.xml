@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_60</folder>
+	<filename>ABSA1-SF.png</filename>
+	<path>/home/zi/thesisB/Thesis-PhishingDetector/data/train_60/ABSA1-SF.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ABSA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>88</ymin>
+			<xmax>109</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>
