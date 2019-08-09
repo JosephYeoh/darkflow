@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train_60</folder>
-	<filename>PayPal42.png</filename>
-	<path>/home/zi/thesisB/Thesis-PhishingDetector/data/train_60/PayPal42.png</path>
+	<filename>PayPal28.png</filename>
+	<path>/home/zi/thesisB/Thesis-PhishingDetector/data/train_60/PayPal28.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>133</xmin>
-			<ymin>16</ymin>
-			<xmax>239</xmax>
-			<ymax>47</ymax>
+			<xmin>542</xmin>
+			<ymin>818</ymin>
+			<xmax>582</xmax>
+			<ymax>836</ymax>
 		</bndbox>
 	</object>
 </annotation>
